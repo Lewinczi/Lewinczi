@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Lewinczi
-- 👀 I’m interested in c++
-- 🌱 I’m currently learning Unreal Engine 5
-- 💞️ I want to cooperate in the development of computer games
-- 📫 How to reach me lewinczi.azamat@gmail.com
+- 👋 Hi, I’m Maksym 
+- 👀 I’m interested in game developing 
+- 🌱 I’m currently learning unreal engine 5
+- 📫 How to reach me maksymkogin@gmail.com
 
 <!---
 Lewinczi/Lewinczi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
