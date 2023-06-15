@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maksym 
 - 👀 I’m interested in game developing 
-- 🌱 I’m currently learning unreal engine 5
+- 🌱 I’m currently learning machine learning
 - 📫 How to reach me maksymkogin@gmail.com
 
 <!---
